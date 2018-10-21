@@ -1,1 +1,1 @@
-### this repository
+### this repository for pygame
